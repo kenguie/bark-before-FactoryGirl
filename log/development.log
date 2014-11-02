@@ -1,0 +1,6 @@
+  [1m[36mDog Load (0.4ms)[0m  [1mSELECT "dogs".* FROM "dogs"[0m
+SQLite3::SQLException: no such table: dogs: SELECT "dogs".* FROM "dogs"
+  [1m[35mDog Load (0.4ms)[0m  SELECT "dogs".* FROM "dogs"
+SQLite3::SQLException: no such table: dogs: SELECT "dogs".* FROM "dogs"
+  [1m[36mDog Load (0.4ms)[0m  [1mSELECT "dogs".* FROM "dogs"[0m
+SQLite3::SQLException: no such table: dogs: SELECT "dogs".* FROM "dogs"
